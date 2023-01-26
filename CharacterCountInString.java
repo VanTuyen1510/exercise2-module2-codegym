@@ -17,6 +17,6 @@ public class CharacterCountInString {
                 count++;
             }
         }
-        System.out.println("Gía trị của biến đếm là : " + count);
+        System.out.println("The value of the counter variable is: " + count);
     }
 }
